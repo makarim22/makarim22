@@ -46,7 +46,7 @@ Welcome to my GitHub! I'm a passionate developer from **Bogor, Jawa Barat** curr
 
 ## 📂 Featured Projects
 
-### [Project Name 1]
+### ordering application clone (coffee shop)
 **Description**: Deskripsi singkat tentang project ini  
 **Tech Stack**: React, Node.js, MongoDB  
 **Status**: ✅ OnProgress 
