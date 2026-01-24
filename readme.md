@@ -74,7 +74,7 @@ Welcome to my GitHub! I'm a passionate developer from **Bogor, Jawa Barat** curr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makarim22&layout=compact&theme=tokyonight)
 
 ### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=makarim22&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=makarim22)](https://git.io/streak-stats)
 
 ---
 
