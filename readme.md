@@ -116,5 +116,9 @@ Welcome to my GitHub! I'm a passionate developer from **Bogor, Jawa Barat** curr
 
 ---
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=makarim22)](https://git.io/streak-stats)
+
+
 *Last Updated: January 2026*  
 *Made with ❤️ from Bogor, Indonesia*
