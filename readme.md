@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Makarim Muhammad
 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+Makarim+Muhammad" /></a>
+</p
+
 **Junior Full Stack Developer | Aspiring Backend Engineer**
 
 Welcome to my GitHub! I'm a passionate developer from **Bogor, Jawa Barat** currently exploring full-stack development with a strong interest in backend engineering.
