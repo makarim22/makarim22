@@ -81,6 +81,10 @@ Welcome to my GitHub! I'm a passionate developer from **Bogor, Jawa Barat** curr
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=makarim22)](https://git.io/streak-stats)
 
+![](https://github-readme-stats.vercel.app/api?username=makarim22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=makarim22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=makarim22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 
 ## 🤝 Connect With Me
