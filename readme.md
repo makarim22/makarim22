@@ -51,8 +51,8 @@ Welcome to my GitHub! I'm a passionate developer from **Bogor, Jawa Barat** curr
 ## 📂 Featured Projects
 
 ### ordering application clone (coffee shop)
-**Description**: Deskripsi singkat tentang project ini  
-**Tech Stack**: React, Node.js, MongoDB  
+**Description**: Aplikasi Frontend sederhana, implementasi frontend best practice : redux, usecontext, dsb
+**Tech Stack**: Javascript, React, TailwindCss
 **Status**: ✅ OnProgress 
 **[View Repository](https://github.com/makarim22/koda-b6-html#)** 
 
@@ -71,11 +71,6 @@ Welcome to my GitHub! I'm a passionate developer from **Bogor, Jawa Barat** curr
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=makarim22&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makarim22&layout=compact&theme=tokyonight)
 
 ### Streak Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=makarim22&theme=dark&hide_border=false)<br/>
