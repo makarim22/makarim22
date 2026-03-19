@@ -75,6 +75,8 @@ Welcome to my GitHub! I'm a passionate developer from **Bogor, Jawa Barat** curr
 ### Streak Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=makarim22&theme=dark&hide_border=false)<br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=makarim22)](https://git.io/streak-stats)
+
 
 ---
 
